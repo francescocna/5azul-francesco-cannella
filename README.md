@@ -16,3 +16,6 @@ x100 = % de desconto
 n- (ll-n)
 
 refelixi
+https://www.tinkercad.com/things/eoqZjDptuKu-incredible-kup-hango/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=qs5TLU41_e057dGEnJzimKzCBgzKqnBbZIODge3nvhY
+<img width="1420" height="1157" alt="image" src="https://github.com/user-attachments/assets/784c4c9d-a618-42b9-a10e-9b0d56592b4d" />
+<img width="1420" height="1157" alt="image" src="https://github.com/user-attachments/assets/6b0b6dcb-a934-4c5d-86dc-8dc799365dd8" />
